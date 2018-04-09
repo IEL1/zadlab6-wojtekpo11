@@ -17,3 +17,6 @@ public class ObjectCounter {
         Punkt.PokazOstatniObiekt();
     }
 }
+
+//Tworzy losowe liczby, ktore sa przechowywane jaka współżedne w tablicy. 
+//Ostatni System.out.println wypisuje ostatnie wygenerowane wspolrzedne.
